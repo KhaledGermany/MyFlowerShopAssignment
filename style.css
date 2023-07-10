@@ -122,7 +122,7 @@ h3{
     color: #963A4E;
 }
 .hot-deal-section{
-    background-color: #FEF6F8;
+    background-color: #fae8ed;
 }
 .hot-deal-body{
     display: flex;
@@ -138,6 +138,7 @@ h3{
   height: 500px;
 }
 .subscribe-input{
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
