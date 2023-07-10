@@ -5,6 +5,7 @@ body {
 
 h1 {
     margin: 0;
+    font-size: 35px;
 }
 
 .top-section {
@@ -14,14 +15,20 @@ h1 {
 .top-body {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 
 
+}
+.top-description{
+    padding: 10px 50px;
 }
 
 
 .top-body img {
-
     height: 600px;
+}
+.featured-section{
+    margin-top: 20px;
 }
 
 .featured-description {
@@ -74,4 +81,32 @@ h1 {
 
 #image-title {
     text-align: center;
+}
+.instra-img-section{
+    display: flex;
+    justify-content: space-around;
+}
+.instra-img-section img{
+    height: 320px;
+}
+.footer-section{
+    background-color: black;
+}
+
+.footer-body{
+    text-align: center;
+    color: white;
+    padding: 40px 10px;
+}
+.flower{
+    color: #963A4E;
+}
+.hot-deal-section{
+    background-color: #FEF6F8;
+}
+.hot-deal-body{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
 }
